@@ -104,7 +104,7 @@ p{
 }
 .thank-you img {
   display: block;
-  margin-top: 0 auto 2rem ;
+  margin-top: 0 auto 2rem 1rem ;
 }
 .thank-you p.selected{
   color:hsl(25, 97%, 53%);
